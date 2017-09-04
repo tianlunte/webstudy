@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    overflow: auto;
+}
+
+#home_header {
+    background: -webkit-linear-gradient(top, #373737, #212121);
+    color: #ffffff;
+    margin-top: 0;
+    padding: 2rem 4rem;
+    text-align: center;
+}
+
+#home_header h1 {
+    margin: 0;
+}
